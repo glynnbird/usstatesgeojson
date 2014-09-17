@@ -6,12 +6,12 @@
   "abbreviation": "HI",
   "capital": "Honolulu",
   "city": "Honolulu",
-  "statehootd": "1959-08-20",
   "population": 1404054,
   "area": 28314,
   "waterarea": 11678,
   "landarea": 16635,
-  "houseseats": 2
+  "houseseats": 2,
+  "statehood": "1959-08-20"
  },
  "geometry": {
   "coordinates": [

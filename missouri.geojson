@@ -6,12 +6,12 @@
   "abbreviation": "MO",
   "capital": "Jefferson City",
   "city": "Kansas City",
-  "statehootd": "1821-08-10",
   "population": 6021988,
   "area": 180540,
   "waterarea": 2499,
   "landarea": 178041,
-  "houseseats": 8
+  "houseseats": 8,
+  "statehood": "1821-08-10"
  },
  "geometry": {
   "coordinates": [

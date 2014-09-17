@@ -6,12 +6,12 @@
   "abbreviation": "CT",
   "capital": "Hartford",
   "city": "Bridgeport",
-  "statehootd": "1788-01-09",
   "population": 3596080,
   "area": 14356,
   "waterarea": 1816,
   "landarea": 12541,
-  "houseseats": 5
+  "houseseats": 5,
+  "statehood": "1788-01-09"
  },
  "geometry": {
   "coordinates": [

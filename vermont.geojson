@@ -6,12 +6,12 @@
   "abbreviation": "VT",
   "capital": "Montpelier",
   "city": "Burlington",
-  "statehootd": "1791-03-04",
   "population": 626630,
   "area": 24905,
   "waterarea": 1036,
   "landarea": 23872,
-  "houseseats": 1
+  "houseseats": 1,
+  "statehood": "1791-03-04"
  },
  "geometry": {
   "coordinates": [

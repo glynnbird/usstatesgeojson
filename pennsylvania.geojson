@@ -6,12 +6,12 @@
   "abbreviation": "PA",
   "capital": "Harrisburg",
   "city": "Philadelphia",
-  "statehootd": "1787-12-12",
   "population": 12773801,
   "area": 119279,
   "waterarea": 3398,
   "landarea": 115884,
-  "houseseats": 18
+  "houseseats": 18,
+  "statehood": "1787-12-12"
  },
  "geometry": {
   "coordinates": [

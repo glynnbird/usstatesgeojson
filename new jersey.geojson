@@ -6,12 +6,12 @@
   "abbreviation": "NJ",
   "capital": "Trenton",
   "city": "Newark",
-  "statehootd": "1787-12-18",
   "population": 8899339,
   "area": 22592,
   "waterarea": 3543,
   "landarea": 19047,
-  "houseseats": 12
+  "houseseats": 12,
+  "statehood": "1787-12-18"
  },
  "geometry": {
   "coordinates": [

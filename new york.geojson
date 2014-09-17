@@ -6,12 +6,12 @@
   "abbreviation": "NY",
   "capital": "Albany",
   "city": "New York",
-  "statehootd": "1788-07-26",
   "population": 19651127,
   "area": 141297,
   "waterarea": 19241,
   "landarea": 122056,
-  "houseseats": 27
+  "houseseats": 27,
+  "statehood": "1788-07-26"
  },
  "geometry": {
   "coordinates": [

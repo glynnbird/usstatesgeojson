@@ -6,12 +6,12 @@
   "abbreviation": "OK",
   "capital": "Oklahoma City",
   "city": "Oklahoma City",
-  "statehootd": "1907-11-16",
   "population": 3850568,
   "area": 181038,
   "waterarea": 3377,
   "landarea": 177660,
-  "houseseats": 5
+  "houseseats": 5,
+  "statehood": "1907-11-16"
  },
  "geometry": {
   "coordinates": [

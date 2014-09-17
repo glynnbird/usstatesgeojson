@@ -6,12 +6,12 @@
   "abbreviation": "DE",
   "capital": "Dover",
   "city": "Wilmington",
-  "statehootd": "1787-12-07",
   "population": 925749,
   "area": 6446,
   "waterarea": 1399,
   "landarea": 5048,
-  "houseseats": 1
+  "houseseats": 1,
+  "statehood": "1787-12-07"
  },
  "geometry": {
   "coordinates": [

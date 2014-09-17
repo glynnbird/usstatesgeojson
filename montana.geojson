@@ -6,12 +6,12 @@
   "abbreviation": "MT",
   "capital": "Helena",
   "city": "Billings",
-  "statehootd": "1889-11-08",
   "population": 1015165,
   "area": 380832,
   "waterarea": 3869,
   "landarea": 376962,
-  "houseseats": 1
+  "houseseats": 1,
+  "statehood": "1889-11-08"
  },
  "geometry": {
   "coordinates": [

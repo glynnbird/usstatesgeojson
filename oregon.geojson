@@ -6,12 +6,12 @@
   "abbreviation": "OR",
   "capital": "Salem",
   "city": "Portland",
-  "statehootd": "1859-02-14",
   "population": 3930065,
   "area": 254800,
   "waterarea": 6193,
   "landarea": 248608,
-  "houseseats": 5
+  "houseseats": 5,
+  "statehood": "1859-02-14"
  },
  "geometry": {
   "coordinates": [

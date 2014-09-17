@@ -6,12 +6,12 @@
   "abbreviation": "WI",
   "capital": "Madison",
   "city": "Milwaukee",
-  "statehootd": "1848-05-29",
   "population": 5742713,
   "area": 169634,
   "waterarea": 29368,
   "landarea": 140269,
-  "houseseats": 8
+  "houseseats": 8,
+  "statehood": "1848-05-29"
  },
  "geometry": {
   "coordinates": [

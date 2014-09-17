@@ -6,12 +6,12 @@
   "abbreviation": "MS",
   "capital": "Jackson",
   "city": "Jackson",
-  "statehootd": "1817-12-10",
   "population": 2991207,
   "area": 125438,
   "waterarea": 3908,
   "landarea": 121530,
-  "houseseats": 4
+  "houseseats": 4,
+  "statehood": "1817-12-10"
  },
  "geometry": {
   "coordinates": [

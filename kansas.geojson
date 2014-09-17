@@ -6,12 +6,12 @@
   "abbreviation": "KS",
   "capital": "Topeka",
   "city": "Wichita",
-  "statehootd": "1861-01-29",
   "population": 2893957,
   "area": 213099,
   "waterarea": 1347,
   "landarea": 211755,
-  "houseseats": 4
+  "houseseats": 4,
+  "statehood": "1861-01-29"
  },
  "geometry": {
   "coordinates": [

@@ -6,12 +6,12 @@
   "abbreviation": "CA",
   "capital": "Sacramento",
   "city": "Los Angeles",
-  "statehootd": "1850-09-09",
   "population": 38332521,
   "area": 423968,
   "waterarea": 20502,
   "landarea": 403466,
-  "houseseats": 53
+  "houseseats": 53,
+  "statehood": "1850-09-09"
  },
  "geometry": {
   "coordinates": [

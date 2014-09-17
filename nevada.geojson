@@ -6,12 +6,12 @@
   "abbreviation": "NV",
   "capital": "Carson City",
   "city": "Las Vegas",
-  "statehootd": "1864-10-31",
   "population": 2790136,
   "area": 286380,
   "waterarea": 2049,
   "landarea": 284331,
-  "houseseats": 4
+  "houseseats": 4,
+  "statehood": "1864-10-31"
  },
  "geometry": {
   "coordinates": [

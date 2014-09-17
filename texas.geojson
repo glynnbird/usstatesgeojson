@@ -6,12 +6,12 @@
   "abbreviation": "TX",
   "capital": "Austin",
   "city": "Houston",
-  "statehootd": "1845-12-29",
   "population": 26448193,
   "area": 695660,
   "waterarea": 19075,
   "landarea": 676588,
-  "houseseats": 36
+  "houseseats": 36,
+  "statehood": "1845-12-29"
  },
  "geometry": {
   "coordinates": [

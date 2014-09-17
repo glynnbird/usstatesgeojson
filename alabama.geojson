@@ -6,12 +6,12 @@
   "abbreviation": "AL",
   "capital": "Montgomery",
   "city": "Birmingham",
-  "statehootd": "1819-12-14",
   "population": 4833722,
   "area": 135767,
   "waterarea": 4597,
   "landarea": 131170,
-  "houseseats": 7
+  "houseseats": 7,
+  "statehood": "1819-12-14"
  },
  "geometry": {
   "coordinates": [

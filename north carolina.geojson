@@ -6,12 +6,12 @@
   "abbreviation": "NC",
   "capital": "Raleigh",
   "city": "Charlotte",
-  "statehootd": "1789-11-21",
   "population": 9848060,
   "area": 139391,
   "waterarea": 13471,
   "landarea": 125920,
-  "houseseats": 13
+  "houseseats": 13,
+  "statehood": "1789-11-21"
  },
  "geometry": {
   "coordinates": [

@@ -6,12 +6,12 @@
   "abbreviation": "SD",
   "capital": "Pierre",
   "city": "Sioux Falls",
-  "statehootd": "1889-11-02",
   "population": 844877,
   "area": 199730,
   "waterarea": 3380,
   "landarea": 196350,
-  "houseseats": 1
+  "houseseats": 1,
+  "statehood": "1889-11-02"
  },
  "geometry": {
   "coordinates": [

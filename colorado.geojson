@@ -6,12 +6,12 @@
   "abbreviation": "CO",
   "capital": "Denver",
   "city": "Denver",
-  "statehootd": "1876-08-01",
   "population": 5268367,
   "area": 269602,
   "waterarea": 1171,
   "landarea": 268432,
-  "houseseats": 7
+  "houseseats": 7,
+  "statehood": "1876-08-01"
  },
  "geometry": {
   "coordinates": [

@@ -6,12 +6,12 @@
   "abbreviation": "FL",
   "capital": "Tallahassee",
   "city": "Jacksonville",
-  "statehootd": "1845-03-03",
   "population": 19552860,
   "area": 170312,
   "waterarea": 31424,
   "landarea": 138888,
-  "houseseats": 27
+  "houseseats": 27,
+  "statehood": "1845-03-03"
  },
  "geometry": {
   "coordinates": [

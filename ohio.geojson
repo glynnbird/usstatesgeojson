@@ -6,12 +6,12 @@
   "abbreviation": "OH",
   "capital": "Columbus",
   "city": "Columbus",
-  "statehootd": "1803-03-01",
   "population": 11570808,
   "area": 116099,
   "waterarea": 10269,
   "landarea": 105830,
-  "houseseats": 16
+  "houseseats": 16,
+  "statehood": "1803-03-01"
  },
  "geometry": {
   "coordinates": [

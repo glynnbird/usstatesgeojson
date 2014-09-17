@@ -6,12 +6,12 @@
   "abbreviation": "IA",
   "capital": "Des Moines",
   "city": "Des Moines",
-  "statehootd": "1846-12-28",
   "population": 3090416,
   "area": 145746,
   "waterarea": 1077,
   "landarea": 144669,
-  "houseseats": 4
+  "houseseats": 4,
+  "statehood": "1846-12-28"
  },
  "geometry": {
   "coordinates": [

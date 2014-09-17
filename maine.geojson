@@ -6,12 +6,12 @@
   "abbreviation": "ME",
   "capital": "Augusta",
   "city": "Portland",
-  "statehootd": "1820-03-15",
   "population": 1328302,
   "area": 91634,
   "waterarea": 11751,
   "landarea": 79883,
-  "houseseats": 2
+  "houseseats": 2,
+  "statehood": "1820-03-15"
  },
  "geometry": {
   "coordinates": [

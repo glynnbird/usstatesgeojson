@@ -6,12 +6,12 @@
   "abbreviation": "RI",
   "capital": "Providence",
   "city": "Providence",
-  "statehootd": "1790-05-29",
   "population": 1051511,
   "area": 4002,
   "waterarea": 1320,
   "landarea": 2678,
-  "houseseats": 2
+  "houseseats": 2,
+  "statehood": "1790-05-29"
  },
  "geometry": {
   "coordinates": [

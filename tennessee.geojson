@@ -6,12 +6,12 @@
   "abbreviation": "TN",
   "capital": "Nashville",
   "city": "Memphis",
-  "statehootd": "1796-06-01",
   "population": 6495978,
   "area": 109152,
   "waterarea": 2354,
   "landarea": 106798,
-  "houseseats": 9
+  "houseseats": 9,
+  "statehood": "1796-06-01"
  },
  "geometry": {
   "coordinates": [

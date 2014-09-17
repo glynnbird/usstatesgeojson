@@ -6,12 +6,12 @@
   "abbreviation": "ND",
   "capital": "Bismarck",
   "city": "Fargo",
-  "statehootd": "1889-11-02",
   "population": 723393,
   "area": 183107,
   "waterarea": 4398,
   "landarea": 178712,
-  "houseseats": 1
+  "houseseats": 1,
+  "statehood": "1889-11-02"
  },
  "geometry": {
   "coordinates": [

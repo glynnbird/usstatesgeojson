@@ -6,12 +6,12 @@
   "abbreviation": "UT",
   "capital": "Salt Lake City",
   "city": "Salt Lake City",
-  "statehootd": "1896-01-04",
   "population": 2900872,
   "area": 219882,
   "waterarea": 7063,
   "landarea": 212819,
-  "houseseats": 4
+  "houseseats": 4,
+  "statehood": "1896-01-04"
  },
  "geometry": {
   "coordinates": [

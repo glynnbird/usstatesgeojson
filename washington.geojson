@@ -6,12 +6,12 @@
   "abbreviation": "WA",
   "capital": "Olympia",
   "city": "Seattle",
-  "statehootd": "1889-11-11",
   "population": 6971406,
   "area": 184661,
   "waterarea": 12541,
   "landarea": 172120,
-  "houseseats": 10
+  "houseseats": 10,
+  "statehood": "1889-11-11"
  },
  "geometry": {
   "coordinates": [

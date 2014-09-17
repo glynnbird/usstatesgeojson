@@ -6,12 +6,12 @@
   "abbreviation": "MI",
   "capital": "Lansing",
   "city": "Detroit",
-  "statehootd": "1837-01-26",
   "population": 9895622,
   "area": 250488,
   "waterarea": 104053,
   "landarea": 146435,
-  "houseseats": 14
+  "houseseats": 14,
+  "statehood": "1837-01-26"
  },
  "geometry": {
   "coordinates": [

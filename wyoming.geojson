@@ -6,12 +6,12 @@
   "abbreviation": "WY",
   "capital": "Cheyenne",
   "city": "Cheyenne",
-  "statehootd": "1890-07-10",
   "population": 582658,
   "area": 253335,
   "waterarea": 1865,
   "landarea": 251470,
-  "houseseats": 1
+  "houseseats": 1,
+  "statehood": "1890-07-10"
  },
  "geometry": {
   "coordinates": [

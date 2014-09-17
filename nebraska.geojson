@@ -6,12 +6,12 @@
   "abbreviation": "NE",
   "capital": "Lincoln",
   "city": "Omaha",
-  "statehootd": "1867-03-01",
   "population": 1868516,
   "area": 200330,
   "waterarea": 1357,
   "landarea": 198973,
-  "houseseats": 3
+  "houseseats": 3,
+  "statehood": "1867-03-01"
  },
  "geometry": {
   "coordinates": [

@@ -6,12 +6,12 @@
   "abbreviation": "KY",
   "capital": "Frankfort",
   "city": "Louisville",
-  "statehootd": "1792-06-01",
   "population": 4395295,
   "area": 104656,
   "waterarea": 2385,
   "landarea": 102268,
-  "houseseats": 6
+  "houseseats": 6,
+  "statehood": "1792-06-01"
  },
  "geometry": {
   "coordinates": [

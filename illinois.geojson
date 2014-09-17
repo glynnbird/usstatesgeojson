@@ -6,12 +6,12 @@
   "abbreviation": "IL",
   "capital": "Springfield",
   "city": "Chicago",
-  "statehootd": "1818-12-03",
   "population": 12882135,
   "area": 149997,
   "waterarea": 6203,
   "landarea": 143794,
-  "houseseats": 18
+  "houseseats": 18,
+  "statehood": "1818-12-03"
  },
  "geometry": {
   "coordinates": [

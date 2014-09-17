@@ -6,12 +6,12 @@
   "abbreviation": "MN",
   "capital": "St. Paul",
   "city": "Minneapolis",
-  "statehootd": "1858-05-11",
   "population": 5420380,
   "area": 225163,
   "waterarea": 18930,
   "landarea": 206233,
-  "houseseats": 8
+  "houseseats": 8,
+  "statehood": "1858-05-11"
  },
  "geometry": {
   "coordinates": [

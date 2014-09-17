@@ -6,12 +6,12 @@
   "abbreviation": "LA",
   "capital": "Baton Rouge",
   "city": "New Orleans",
-  "statehootd": "1812-04-30",
   "population": 4625470,
   "area": 135658,
   "waterarea": 23761,
   "landarea": 111898,
-  "houseseats": 6
+  "houseseats": 6,
+  "statehood": "1812-04-30"
  },
  "geometry": {
   "coordinates": [

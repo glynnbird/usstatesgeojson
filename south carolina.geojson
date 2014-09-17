@@ -6,12 +6,12 @@
   "abbreviation": "SC",
   "capital": "Columbia",
   "city": "Columbia",
-  "statehootd": "1788-05-23",
   "population": 4774839,
   "area": 82931,
   "waterarea": 5076,
   "landarea": 77858,
-  "houseseats": 7
+  "houseseats": 7,
+  "statehood": "1788-05-23"
  },
  "geometry": {
   "coordinates": [

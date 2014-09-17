@@ -6,12 +6,12 @@
   "abbreviation": "IN",
   "capital": "Indianapolis",
   "city": "Indianapolis",
-  "statehootd": "1816-12-11",
   "population": 6570902,
   "area": 94327,
   "waterarea": 1536,
   "landarea": 92789,
-  "houseseats": 9
+  "houseseats": 9,
+  "statehood": "1816-12-11"
  },
  "geometry": {
   "coordinates": [

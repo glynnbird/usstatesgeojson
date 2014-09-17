@@ -6,12 +6,12 @@
   "abbreviation": "NH",
   "capital": "Concord",
   "city": "Manchester",
-  "statehootd": "1788-06-21",
   "population": 1323459,
   "area": 24214,
   "waterarea": 1028,
   "landarea": 23188,
-  "houseseats": 2
+  "houseseats": 2,
+  "statehood": "1788-06-21"
  },
  "geometry": {
   "coordinates": [

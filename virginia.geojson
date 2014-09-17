@@ -6,12 +6,12 @@
   "abbreviation": "VA",
   "capital": "Richmond",
   "city": "Virginia Beach",
-  "statehootd": "1788-06-25",
   "population": 8260405,
   "area": 110787,
   "waterarea": 8508,
   "landarea": 102279,
-  "houseseats": 11
+  "houseseats": 11,
+  "statehood": "1788-06-25"
  },
  "geometry": {
   "coordinates": [

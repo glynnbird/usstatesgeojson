@@ -6,12 +6,12 @@
   "abbreviation": "WV",
   "capital": "Charleston",
   "city": "Charleston",
-  "statehootd": "1863-06-20",
   "population": 1854304,
   "area": 62755,
   "waterarea": 497,
   "landarea": 62258,
-  "houseseats": 3
+  "houseseats": 3,
+  "statehood": "1863-06-20"
  },
  "geometry": {
   "coordinates": [

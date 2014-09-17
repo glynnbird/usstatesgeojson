@@ -6,12 +6,12 @@
   "abbreviation": "ID",
   "capital": "Boise",
   "city": "Boise",
-  "statehootd": "1890-07-03",
   "population": 1612136,
   "area": 216443,
   "waterarea": 2398,
   "landarea": 214044,
-  "houseseats": 2
+  "houseseats": 2,
+  "statehood": "1890-07-03"
  },
  "geometry": {
   "coordinates": [

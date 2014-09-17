@@ -6,12 +6,12 @@
   "abbreviation": "NM",
   "capital": "Santa Fe",
   "city": "Albuquerque",
-  "statehootd": "1912-01-06",
   "population": 2085287,
   "area": 314917,
   "waterarea": 756,
   "landarea": 314160,
-  "houseseats": 3
+  "houseseats": 3,
+  "statehood": "1912-01-06"
  },
  "geometry": {
   "coordinates": [
