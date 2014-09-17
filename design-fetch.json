@@ -1,0 +1,9 @@
+{
+    "_id": "_design/fetch",
+    "views": {
+        "byName": {
+            "map": "function(doc) {\n  emit(doc.properties.name, null);\n}"
+        }
+    },
+    "language": "javascript"
+}
