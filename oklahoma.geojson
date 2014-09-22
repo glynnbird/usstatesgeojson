@@ -11,7 +11,8 @@
   "waterarea": 3377,
   "landarea": 177660,
   "houseseats": 5,
-  "statehood": "1907-11-16"
+  "statehood": "1907-11-16",
+  "group": "US States"
  },
  "geometry": {
   "coordinates": [

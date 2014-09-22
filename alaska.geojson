@@ -11,7 +11,8 @@
   "waterarea": 245383,
   "landarea": 1477950,
   "houseseats": 1,
-  "statehood": "1959-01-03"
+  "statehood": "1959-01-03",
+  "group": "US States"
  },
  "geometry": {
   "coordinates": [

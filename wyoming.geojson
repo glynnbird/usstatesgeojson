@@ -11,7 +11,8 @@
   "waterarea": 1865,
   "landarea": 251470,
   "houseseats": 1,
-  "statehood": "1890-07-10"
+  "statehood": "1890-07-10",
+  "group": "US States"
  },
  "geometry": {
   "coordinates": [

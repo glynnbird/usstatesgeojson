@@ -11,7 +11,8 @@
   "waterarea": 1536,
   "landarea": 92789,
   "houseseats": 9,
-  "statehood": "1816-12-11"
+  "statehood": "1816-12-11",
+  "group": "US States"
  },
  "geometry": {
   "coordinates": [

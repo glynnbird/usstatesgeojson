@@ -11,7 +11,8 @@
   "waterarea": 756,
   "landarea": 314160,
   "houseseats": 3,
-  "statehood": "1912-01-06"
+  "statehood": "1912-01-06",
+  "group": "US States"
  },
  "geometry": {
   "coordinates": [
